@@ -1,0 +1,9 @@
+{
+  "name": "ec2launch-c35ccc6a-223f-437d-a113-df94fe24e8af",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "^2.950.0",
+    "request": "^2.87.0"
+  }
+}
+
